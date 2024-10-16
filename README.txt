@@ -8,3 +8,5 @@ Git-R readme file
 3rd line of change.
 
 4th line of change.
+
+6th line of change.
