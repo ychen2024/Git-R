@@ -13,3 +13,4 @@ Git-R readme file
 
 6th line of change.
 
+7th line of change.
