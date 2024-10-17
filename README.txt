@@ -27,3 +27,6 @@ Squash Merge
 1st commit
 2nd commit
 3rd commit
+
+Recursive Merge
+1st commit
