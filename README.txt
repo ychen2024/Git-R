@@ -23,3 +23,5 @@ This line is added to the README.txt in main after the creation of local-branch.
 
 This line is added to the local-branch after the creation of local-branch. Meanwhile, changes have been made to the README.txt file in "main"
 
+Test "Squash Merge"
+1. First commit
