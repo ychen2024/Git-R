@@ -25,3 +25,4 @@ This line is added to the local-branch after the creation of local-branch. Meanw
 
 Squash Merge
 1st commit
+2nd commit
