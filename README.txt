@@ -18,3 +18,5 @@ Git-R readme file
 8th line of change.
 
 This line is added after the creation of local-branch. So it's not in the README.txt file in the local-branch.
+
+This line is added to the README.txt in main after the creation of local-branch. The README.txt file in local-branch has been changed as well.
