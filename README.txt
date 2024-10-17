@@ -26,3 +26,4 @@ This line is added to the local-branch after the creation of local-branch. Meanw
 Test "Squash Merge"
 1. First commit
 2. Second commit
+3. Third commit
