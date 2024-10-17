@@ -21,4 +21,4 @@ This line is added after the creation of local-branch. So it's not in the README
 
 This line is added to the README.txt in main after the creation of local-branch. The README.txt file in local-branch has been changed as well.
 
-This line is added to the local-branch after the creation of local-branch. Meanwhile, changes have been made to the README.txt file in "main"
+This line is added to the local-branch after the creation of local-branch. Meanwhile, changes have been made to the README.txt file in "main" as well.
