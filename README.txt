@@ -37,3 +37,6 @@ Rebase
 1st commit 
 2nd commit
 3rd commit
+
+Three local branches: main, local-branch, and local-branch2.
+This is the change made to local-branch2. This change will be pushed to remote.Then a change will be made to local-branch. 
