@@ -48,3 +48,4 @@ At this point main is ahead of local-branch by 1 commit. This change is absent i
 Created a local branch named 'local-branch1.'
 This is the change made to local-branch1. This change will be merged with 'main' and then merge to 'local-branch' which a new change has been made after the creation of local-branch1.
 
+This change is added to test 'git pull' and 'git fetch.'
