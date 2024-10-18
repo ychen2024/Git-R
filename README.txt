@@ -41,5 +41,10 @@ Rebase
 Three local branches: main, local-branch, and local-branch2.
 This is the change made to local-branch2. This change will be pushed to remote.Then a change will be made to local-branch. 
 
+
 This is change made to local-branch after (1) created of local-branch1, (2) change made to local-branch1, (3) merged main and local-branch1. 
 At this point main is ahead of local-branch by 1 commit. This change is absent in local-branch. Next, merge main and local-branch.
+
+Created a local branch named 'local-branch1.'
+This is the change made to local-branch1. This change will be merged with 'main' and then merge to 'local-branch' which a new change has been made after the creation of local-branch1.
+
