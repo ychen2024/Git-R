@@ -53,3 +53,5 @@ This change is added to test 'git pull' and 'git fetch.'
 
 This is a change made to README.txt in local-branch to test git fetch/pull. 
 
+A new line added to test git fetch.
+
